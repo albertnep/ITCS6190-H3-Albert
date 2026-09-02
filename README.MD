@@ -20,8 +20,8 @@ All files needed to build and run the app (`app.py`, `Dockerfile`, `compose.yaml
  
 1. Clone the repository:
 ```
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/albertnep/ITCS6190-H3-Albert.git
+   cd ITCS6190-H3-Albert
 ```
  
 2. Build and start the containers:
